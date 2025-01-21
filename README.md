@@ -12,9 +12,6 @@ Hi there! 👋 I'm Mihiran
 - Tools: Git, GitHub, Vite, MySQL
 - Platforms: GitHub Pages, Vercel
 
- 🚀 Current Projects
-- Weather App: 
-  
 
  🌱 Interests
 - 📡 Cloud and IoT solutions
